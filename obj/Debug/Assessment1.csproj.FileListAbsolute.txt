@@ -1,0 +1,23 @@
+C:\Users\ofone\OneDrive\AI\DSA\Assessment\Assessment1\bin\Debug\Assessment1.exe.config
+C:\Users\ofone\OneDrive\AI\DSA\Assessment\Assessment1\bin\Debug\Assessment1.exe
+C:\Users\ofone\OneDrive\AI\DSA\Assessment\Assessment1\bin\Debug\Assessment1.pdb
+C:\Users\ofone\OneDrive\AI\DSA\Assessment\Assessment1\obj\Debug\Assessment1.csproj.AssemblyReference.cache
+C:\Users\ofone\OneDrive\AI\DSA\Assessment\Assessment1\obj\Debug\Assessment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ofone\OneDrive\AI\DSA\Assessment\Assessment1\obj\Debug\Assessment1.csproj.CoreCompileInputs.cache
+C:\Users\ofone\OneDrive\AI\DSA\Assessment\Assessment1\obj\Debug\Assessment1.exe
+C:\Users\ofone\OneDrive\AI\DSA\Assessment\Assessment1\obj\Debug\Assessment1.pdb
+C:\Users\22539252\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\bin\Debug\Assessment1.exe.config
+C:\Users\22539252\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\bin\Debug\Assessment1.exe
+C:\Users\22539252\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\bin\Debug\Assessment1.pdb
+C:\Users\22539252\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\obj\Debug\Assessment1.csproj.AssemblyReference.cache
+C:\Users\22539252\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\obj\Debug\Assessment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\22539252\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\obj\Debug\Assessment1.csproj.CoreCompileInputs.cache
+C:\Users\22539252\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\obj\Debug\Assessment1.exe
+C:\Users\22539252\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\obj\Debug\Assessment1.pdb
+C:\Users\ofone\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\bin\Debug\Assessment1.exe.config
+C:\Users\ofone\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\bin\Debug\Assessment1.exe
+C:\Users\ofone\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\bin\Debug\Assessment1.pdb
+C:\Users\ofone\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\obj\Debug\Assessment1.csproj.AssemblyReference.cache
+C:\Users\ofone\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\obj\Debug\Assessment1.csproj.CoreCompileInputs.cache
+C:\Users\ofone\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\obj\Debug\Assessment1.exe
+C:\Users\ofone\OneDrive\AI\DSA\Ofonime_Eset_22539252\Exercise 1\Task A\obj\Debug\Assessment1.pdb
